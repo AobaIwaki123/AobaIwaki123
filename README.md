@@ -9,7 +9,7 @@
 
 - 坂道ペンライトクイズ: https://github.com/AobaIwaki123/sakamichi-penlight-quiz
 - 浅井恋乃未 X bot: https://github.com/AobaIwaki123/asai-x-bot
-- Chrome拡張: 画像URLスクレイパー: https://github.com/AobaIwaki123/url-to-csv
+- 画像URLスクレイパー: https://github.com/AobaIwaki123/url-to-csv
 
 ## インフラ関連
 
