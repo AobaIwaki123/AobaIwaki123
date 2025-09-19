@@ -5,3 +5,18 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aobaiwaki123&theme=vue-dark&layout=compact&hide=mustache,html,css" />
 </div>
 
+## お気に入り
+
+- 坂道ペンライトクイズ: https://github.com/AobaIwaki123/sakamichi-penlight-quiz
+- 浅井恋乃未 X bot: https://github.com/AobaIwaki123/asai-x-bot
+- 開発中: 画像URLスクレイパー: https://github.com/AobaIwaki123/url-to-csv
+
+## インフラ関連
+
+- k8sクラスタ構築: https://github.com/AobaIwaki123/k8s-cluster
+- TerraformでVM作成自動化: https://github.com/AobaIwaki123/Proxmox-Terraform
+- Ansibleで構成自動化: https://github.com/AobaIwaki123/ansible
+
+## Rust勉強中
+
+- RustでAtCoder: https://github.com/AobaIwaki123
