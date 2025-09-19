@@ -17,6 +17,10 @@
 - TerraformでVM作成自動化: https://github.com/AobaIwaki123/Proxmox-Terraform
 - Ansibleで構成自動化: https://github.com/AobaIwaki123/ansible
 
+## 動かすにはGPUが必要
+
+- YouTube動画のボーカルとInst.を分離するアプリ: https://github.com/AobaIwaki123/musp
+
 ## Rust勉強中
 
 - RustでAtCoder: https://github.com/AobaIwaki123
