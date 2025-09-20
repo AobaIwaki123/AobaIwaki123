@@ -23,4 +23,4 @@
 
 ## Rust勉強中
 
-- RustでAtCoder: https://github.com/AobaIwaki123
+- RustでAtCoder: https://github.com/AobaIwaki123/atcoder-rust
