@@ -7,6 +7,7 @@
 
 ## お気に入り
 
+- Journee (旅のしおり作成AIエージェント): https://github.com/AobaIwaki123/journee
 - 坂道ペンライトクイズ: https://github.com/AobaIwaki123/sakamichi-penlight-quiz
 - 浅井恋乃未 X bot: https://github.com/AobaIwaki123/asai-x-bot
 - 画像URLスクレイパー: https://github.com/AobaIwaki123/url-to-csv
