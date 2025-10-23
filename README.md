@@ -22,10 +22,6 @@
 
 - YouTube動画のボーカルとInst.を分離するアプリ: https://github.com/AobaIwaki123/musp
 
-## Rust勉強中
-
-- RustでAtCoder: https://github.com/AobaIwaki123/atcoder-rust
-
 ## プライベート
 
 - 2d-gumbel: https://github.com/AobaIwaki123/2d-gumbel
