@@ -28,5 +28,5 @@
 
 - 2d-gumbel: https://github.com/AobaIwaki123/2d-gumbel
 - mac-setup: https://github.com/AobaIwaki123/mac-setup
-- memo: git@github.com:AobaIwaki123/Memo.git
+- memo: https://github.com/AobaIwaki123/Memo
 - 論文執筆: https://github.com/AobaIwaki123/tex-comnets
