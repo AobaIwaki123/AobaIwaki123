@@ -17,6 +17,8 @@
 - k8sクラスタ構築: https://github.com/AobaIwaki123/k8s-cluster
 - TerraformでVM作成自動化: https://github.com/AobaIwaki123/Proxmox-Terraform
 - Ansibleで構成自動化: https://github.com/AobaIwaki123/ansible
+- マニフェストファイル管理: https://github.com/AobaIwaki123/infra
+- GKE Getting Started: https://github.com/AobaIwaki123/setup-gke
 
 ## 動かすにはGPUが必要
 
@@ -27,3 +29,4 @@
 - 2d-gumbel: https://github.com/AobaIwaki123/2d-gumbel
 - mac-setup: https://github.com/AobaIwaki123/mac-setup
 - memo: git@github.com:AobaIwaki123/Memo.git
+- 論文執筆: https://github.com/AobaIwaki123/tex-comnets
