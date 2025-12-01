@@ -34,3 +34,4 @@
 - mac-setup: https://github.com/AobaIwaki123/mac-setup
 - memo: https://github.com/AobaIwaki123/Memo
 - 論文執筆: https://github.com/AobaIwaki123/tex-comnets
+- Zenn: https://github.com/AobaIwaki123/zenn
