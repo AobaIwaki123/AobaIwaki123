@@ -24,6 +24,10 @@
 
 - YouTube動画のボーカルとInst.を分離するアプリ: https://github.com/AobaIwaki123/musp
 
+## 触ってみた
+
+Google Antigravity: https://github.com/AobaIwaki123/anitigravity-getting-started#
+
 ## プライベート
 
 - 2d-gumbel: https://github.com/AobaIwaki123/2d-gumbel
