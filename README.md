@@ -26,7 +26,7 @@
 
 ## 触ってみた
 
-Google Antigravity: https://github.com/AobaIwaki123/anitigravity-getting-started#
+- Google Antigravity: https://github.com/AobaIwaki123/anitigravity-getting-started#
 
 ## プライベート
 
