@@ -19,6 +19,7 @@
 - Ansibleで構成自動化: https://github.com/AobaIwaki123/ansible
 - マニフェストファイル管理: https://github.com/AobaIwaki123/infra
 - GKE Getting Started: https://github.com/AobaIwaki123/setup-gke
+- 自作コンテナランタイム: https://github.com/AobaIwaki123/container-runtime
 
 ## 動かすにはGPUが必要
 
