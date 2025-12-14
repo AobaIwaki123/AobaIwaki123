@@ -24,6 +24,7 @@
 
 ## OSS貢献
 
+- dataformというBigQueryのためのCLIにオプションを追加: https://github.com/dataform-co/dataform/pull/1962
 - memosというSNSライクOSSに自動更新機能を追加: https://github.com/usememos/memos/pull/5348
 
 ## 触ってみた
