@@ -11,6 +11,7 @@
 - 坂道ペンライトクイズ: https://github.com/AobaIwaki123/sakamichi-penlight-quiz
 - 浅井恋乃未 X bot: https://github.com/AobaIwaki123/asai-x-bot
 - 画像URLスクレイパー: https://github.com/AobaIwaki123/url-to-csv
+- YouTube動画のボーカルとInst.を分離するアプリ: https://github.com/AobaIwaki123/musp
 
 ## インフラ関連
 
@@ -21,9 +22,9 @@
 - GKE Getting Started: https://github.com/AobaIwaki123/setup-gke
 - 自作コンテナランタイム: https://github.com/AobaIwaki123/container-runtime
 
-## 動かすにはGPUが必要
+## OSS貢献
 
-- YouTube動画のボーカルとInst.を分離するアプリ: https://github.com/AobaIwaki123/musp
+- memosというSNSライクOSSに自動更新機能を追加: https://github.com/usememos/memos/pull/5348
 
 ## 触ってみた
 
