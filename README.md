@@ -12,6 +12,7 @@
 - 浅井恋乃未 X bot: https://github.com/AobaIwaki123/asai-x-bot
 - 画像URLスクレイパー: https://github.com/AobaIwaki123/url-to-csv
 - YouTube動画のボーカルとInst.を分離するアプリ: https://github.com/AobaIwaki123/musp
+- Raycast x MemosでAI感のある雑な文章を収集するアプリ: https://github.com/AobaIwaki123/quick-send
 
 ## インフラ関連
 
