@@ -22,6 +22,7 @@
 - マニフェストファイル管理: https://github.com/AobaIwaki123/infra
 - GKE Getting Started: https://github.com/AobaIwaki123/setup-gke
 - 自作コンテナランタイム: https://github.com/AobaIwaki123/container-runtime
+- Smart Home: https://github.com/AobaIwaki123/smart_home.git
 
 ## OSS貢献
 
@@ -40,4 +41,3 @@
 - 論文執筆: https://github.com/AobaIwaki123/tex-comnets
 - Zenn: https://github.com/AobaIwaki123/zenn
 - YouTube with Gesture: https://github.com/AobaIwaki123/YouTubewithGesture
-- Smart Home: https://github.com/AobaIwaki123/smart_home.git
