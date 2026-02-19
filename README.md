@@ -40,3 +40,4 @@
 - 論文執筆: https://github.com/AobaIwaki123/tex-comnets
 - Zenn: https://github.com/AobaIwaki123/zenn
 - YouTube with Gesture: https://github.com/AobaIwaki123/YouTubewithGesture
+- Smart Home: https://github.com/AobaIwaki123/smart_home.git
