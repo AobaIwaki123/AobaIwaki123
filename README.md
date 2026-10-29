@@ -1,23 +1,34 @@
-## お気に入り
+# AobaIwaki123
 
-- Journee (旅のしおり作成AIエージェント): https://github.com/AobaIwaki123/journee
-- 坂道ペンライトクイズ: https://github.com/AobaIwaki123/sakamichi-penlight-quiz
-- 浅井恋乃未 X bot: https://github.com/AobaIwaki123/asai-x-bot
-- 画像URLスクレイパー: https://github.com/AobaIwaki123/url-to-csv
-- YouTube動画のボーカルとInst.を分離するアプリ: https://github.com/AobaIwaki123/musp
-- Raycast x MemosでAI感のある雑な文章を収集するアプリ: https://github.com/AobaIwaki123/quick-send
+AI・インフラを中心に、個人開発とホームラボ運用をしています。
 
-## インフラ関連
+AIを使ったWebアプリや、開発・運用を支えるツールを作ったり、Kubernetes基盤を自分で運用したりしています。アイデアを小さく形にして、実際に使いながら改善することを大切にしています。
 
-- k8sクラスタ構築: https://github.com/AobaIwaki123/k8s-cluster
-- TerraformでVM作成自動化: https://github.com/AobaIwaki123/Proxmox-Terraform
-- Ansibleで構成自動化: https://github.com/AobaIwaki123/ansible
-- マニフェストファイル管理: https://github.com/AobaIwaki123/infra
-- GKE Getting Started: https://github.com/AobaIwaki123/setup-gke
-- 自作コンテナランタイム: https://github.com/AobaIwaki123/container-runtime
-- Smart Home: https://github.com/AobaIwaki123/smart_home.git
+## Current focus
 
-## OSS貢献
+| テーマ | 取り組んでいること |
+| --- | --- |
+| AI / Personal Products | AIエージェント、LLMベンチマーク、個人向けWebアプリ |
+| Platform Engineering | ホームラボKubernetes、GitOps、IaC、可観測性 |
+| Frontend / Prototypes | ダッシュボード、可視化、試作アプリケーション |
 
-- dataformというBigQueryのためのCLIにオプションを追加: https://github.com/dataform-co/dataform/pull/1962
-- memosというSNSライクOSSに自動更新機能を追加: https://github.com/usememos/memos/pull/5348
+## Personal projects
+
+| Project | Description |
+| --- | --- |
+| [taite-board](https://github.com/AobaIwaki123/taite-board) | アイドル現場向けのタイムテーブル・コックピットダッシュボード |
+| [k8s-cluster](https://github.com/AobaIwaki123/k8s-cluster) | 自宅で運用しているKubernetes基盤 |
+| [k8s-3d-visualizer](https://github.com/AobaIwaki123/k8s-3d-visualizer) | 自宅Kubernetesクラスターのネットワーク構成を可視化するWebアプリケーション |
+| [homelab-bench](https://github.com/AobaIwaki123/homelab-bench) | Next.jsとshadcn/uiで作るホームラボ向けLLMベンチマークダッシュボード |
+| [journee](https://github.com/AobaIwaki123/journee) | AIとともに旅のしおりを作成するアプリケーション |
+
+## Tools I use
+
+**Languages**: Go, TypeScript, Python, Rust, C
+
+**Infrastructure**: Kubernetes, Terraform, Proxmox, Cloudflare, GitHub Actions
+
+## Explore
+
+- [すべてのリポジトリ](https://github.com/AobaIwaki123?tab=repositories)
+- [最近の活動](https://github.com/AobaIwaki123?tab=overview)
